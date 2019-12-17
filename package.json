@@ -1,0 +1,14 @@
+{
+    "name": "_1576_1575_1586_1740_32_1570_1585_1575_1605_1588_32_1576_1582_1588_32v1",
+    "displayName": "بازی آرامش بخش v1",
+    "version": "1.0.0",
+    "description": "بازی آرامش بخش v1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "iwdev1"
+}
